@@ -72,4 +72,6 @@
         <item>55</item>
     </integer-array>
 
+    <!-- Pocket Lock -->
+    <bool name="config_pocketModeSupported">true</bool>
 </resources>
