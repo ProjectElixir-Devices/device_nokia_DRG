@@ -22,3 +22,6 @@ git clone https://github.com/pure-soul-kk/android_prebuilts_clang_kernel_linux-x
 rm -rf external/tinycompress
 git clone https://github.com/LineageOS/android_external_tinycompress external/tinycompress
 
+# Sepolicy
+rm -rf device/qcom/sepolicy-legacy-um
+git clone https://github.com/ArrowOS/android_device_qcom_sepolicy-legacy-um device/qcom/sepolicy-legacy-um

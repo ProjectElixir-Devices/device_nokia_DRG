@@ -3,3 +3,4 @@ vendor/nokia/
 kernel/nokia/
 prebuilts/clang/kernel/linux-x86/clang-r416183b
 external/tinycompress
+device/qcom/sepolicy-legacy-um
